@@ -2,3 +2,4 @@ import csv
 import pandas as pd
 import streamlit as st
 import db
+mysql-connector-python
